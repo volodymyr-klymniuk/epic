@@ -1,0 +1,17 @@
+
+                `Table`
+    _____________________________________________
+        | ID | PARENT_ID | EMAIL | CARD | PHONE
+
+1, NULL, email1, card1, phone1,
+2, NULL, email1, card2, phone2,
+3, NULL, email3, card3, phone3,
+4, NULL, email4, card4, phone2,
+5, NULL, email3, card2, phone2,
+6, NULL, email534,card8, phone3,
+7, NULL, email587, card67, phone4,
+8, NULL, email49, card5, phone88,
+9, NULL, email484, card4, phone22,
+30, NULL, email3, card2, phone5,
+31, NULL, email4, card2, phone7,
+33, NULL, email55, card2, phone8,
